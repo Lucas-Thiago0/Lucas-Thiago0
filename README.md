@@ -33,11 +33,11 @@ Desenvolvendo soluções escaláveis utilizando Python.
 ---
 
 ### 🛰 Featured Project: Plantelligence (TCC 2026)
-*Sistema de automação e monitoramento inteligente para estufas hidropônicas.*
+*Sistema de automação e monitoramento inteligente para estufas de Fungicultura.*
 
 * **Arquitetura:** Microserviços desacoplados com comunicação via WebSockets e RESTful APIs.
 * **Security First:** Implementação de autenticação multifator (MFA), hashing de alta segurança e comunicação criptografada ponta-a-ponta.
-* **Cloud Native:** Deployment automatizado em ambiente Azure utilizando containers Docker e persistência em TimescaleDB para análise de séries temporais.
+* **Cloud Native:** Deployment automatizado em ambiente Azure utilizando TimescaleDB para análise de séries temporais.
 
 ---
 
