@@ -3,8 +3,6 @@
 # Lucas Thiago Ferreira de Freitas
 ### Software Engineer | Backend & Cloud Infrastructure
 
-<img src="https://github.com/Lucas-Thiago0.png" width="160px" style="border-radius: 4px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);" alt="Lucas Thiago">
-
 ---
 
 Engenheiro de Software em formação com foco em arquiteturas distribuídas, sistemas de telemetria e segurança cibernética. 
