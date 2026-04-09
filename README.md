@@ -1,46 +1,56 @@
 <div align="center">
 
-# Oiii, eu sou o Lucas Thiago! 👋
-### Software Engineer Student | Data & IoT Enthusiast 
+# Lucas Thiago Ferreira de Freitas
+### Software Engineer | Backend & Cloud Infrastructure
 
-<img src="https://github.com/Lucas-Thiago0.png" width="160px" style="border-radius: 50%; box-shadow: 0 0 20px rgba(0,0,0,0.5);" alt="Lucas Thiago">
-
----
-
-Sou desenvolvedor com foco em construção de sistemas escaláveis e seguros. 
-Atualmente trabalhando no **Projeto Plantelligence** (IoT + Cloud para automação de estufas).
-Focado em transição de carreira para **Data Engineering**.
-
-<br/>
-
-### 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-00584c?style=for-the-badge&logo=FastAPI&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-<br/>
-
-### 📫 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_AQUI_O_LINK_DO_SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasthiagoff@gmail.com)
+<img src="https://github.com/Lucas-Thiago0.png" width="160px" style="border-radius: 4px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);" alt="Lucas Thiago">
 
 ---
 
-### 📊 GitHub Stats
+Engenheiro de Software em formação com foco em arquiteturas distribuídas, sistemas de telemetria e segurança cibernética. 
+Desenvolvendo soluções escaláveis utilizando Python.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Thiago0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Thiago0&layout=compact&langs_count=7&theme=dark"/>
+[LinkedIn](www.linkedin.com/in/lucas-thiago-data)
+
+---
 
 </div>
 
-<br/>
+### 🛠 Technical Expertise
 
-### 🚀 Principais Projetos (TCC 2026)
+**Backend & API Design**
+![Python](https://img.shields.io/badge/python-1E1E1E?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1E1E1E?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Elixir](https://img.shields.io/badge/elixir-1E1E1E?style=for-the-badge&logo=elixir&logoColor=white)
 
-* **Plantelligence IoT:** Sistema automatizado para estufas de cogumelos usando **Python (FastAPI)**, **Azure** e **PostgreSQL (TimescaleDB)**. Foco em segurança com implementação de **MFA** e comunicação criptografada.
+**Data & Persistence**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-1E1E1E?style=for-the-badge&logo=timescale&logoColor=white)
+
+**Cloud & DevOps**
+![Azure](https://img.shields.io/badge/Azure-1E1E1E?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-1E1E1E?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
+
+### 🛰 Featured Project: Plantelligence (TCC 2026)
+*Sistema de automação e monitoramento inteligente para estufas hidropônicas.*
+
+* **Arquitetura:** Microserviços desacoplados com comunicação via WebSockets e RESTful APIs.
+* **Security First:** Implementação de autenticação multifator (MFA), hashing de alta segurança e comunicação criptografada ponta-a-ponta.
+* **Cloud Native:** Deployment automatizado em ambiente Azure utilizando containers Docker e persistência em TimescaleDB para análise de séries temporais.
+
+---
+
+### 📊 Engineering Metrics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Thiago0&show_icons=true&theme=transparent&title_color=white&text_color=9f9f9f&icon_color=white&border_color=444&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Thiago0&layout=compact&langs_count=7&theme=transparent&title_color=white&text_color=9f9f9f&icon_color=white&border_color=444"/>
+</div>
+
+---
+<p align="center">
+  <small>“Software is a great combination between artistry and engineering.” – Bill Gates</small>
+</p>
