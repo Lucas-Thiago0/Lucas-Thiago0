@@ -1,0 +1,39 @@
+<svg width="600" height="110" viewBox="0 0 600 110" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="110" fill="#0d1117" rx="6"/>
+  <rect x="1" y="1" width="598" height="108" fill="none" stroke="#21262d" stroke-width="1" rx="6"/>
+  
+  <!-- top border line -->
+  <line x1="20" y1="1" x2="580" y2="1" stroke="#6366f1" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- corner chars -->
+  <text x="14" y="22" font-family="JetBrains Mono,monospace" font-size="12" fill="#374151">╭─</text>
+  <text x="120" y="22" font-family="JetBrains Mono,monospace" font-size="12" fill="#4b5563" letter-spacing="2">TECHNICAL STACK</text>
+  <text x="310" y="22" font-family="JetBrains Mono,monospace" font-size="12" fill="#374151">──────────────────────────────╮</text>
+  
+  <!-- rows -->
+  <text x="30" y="48" font-family="JetBrains Mono,monospace" font-size="11" fill="#6b7280">BACKEND</text>
+  <text x="120" y="48" font-family="JetBrains Mono,monospace" font-size="11" fill="#374151">│</text>
+  <text x="135" y="48" font-family="JetBrains Mono,monospace" font-size="11" fill="#e2e8f0">Python</text>
+  <text x="195" y="48" font-family="JetBrains Mono,monospace" font-size="11" fill="#374151">·</text>
+  <text x="208" y="48" font-family="JetBrains Mono,monospace" font-size="11" fill="#e2e8f0">FastAPI</text>
+  <text x="270" y="48" font-family="JetBrains Mono,monospace" font-size="11" fill="#374151">·</text>
+  <text x="283" y="48" font-family="JetBrains Mono,monospace" font-size="11" fill="#9ca3af">Elixir</text>
+  
+  <text x="30" y="70" font-family="JetBrains Mono,monospace" font-size="11" fill="#6b7280">DATA</text>
+  <text x="120" y="70" font-family="JetBrains Mono,monospace" font-size="11" fill="#374151">│</text>
+  <text x="135" y="70" font-family="JetBrains Mono,monospace" font-size="11" fill="#9ca3af">PostgreSQL</text>
+  <text x="224" y="70" font-family="JetBrains Mono,monospace" font-size="11" fill="#374151">·</text>
+  <text x="237" y="70" font-family="JetBrains Mono,monospace" font-size="11" fill="#9ca3af">TimescaleDB</text>
+
+  <text x="30" y="92" font-family="JetBrains Mono,monospace" font-size="11" fill="#6b7280">CLOUD</text>
+  <text x="120" y="92" font-family="JetBrains Mono,monospace" font-size="11" fill="#374151">│</text>
+  <text x="135" y="92" font-family="JetBrains Mono,monospace" font-size="11" fill="#9ca3af">Azure</text>
+  <text x="180" y="92" font-family="JetBrains Mono,monospace" font-size="11" fill="#374151">·</text>
+  <text x="193" y="92" font-family="JetBrains Mono,monospace" font-size="11" fill="#9ca3af">Docker</text>
+  <text x="246" y="92" font-family="JetBrains Mono,monospace" font-size="11" fill="#374151">·</text>
+  <text x="259" y="92" font-family="JetBrains Mono,monospace" font-size="11" fill="#9ca3af">CI/CD</text>
+  
+  <!-- bottom corner -->
+  <text x="14" y="108" font-family="JetBrains Mono,monospace" font-size="12" fill="#374151">╰</text>
+  <text x="26" y="108" font-family="JetBrains Mono,monospace" font-size="12" fill="#374151">──────────────────────────────────────────────────────────────────╯</text>
+</svg>
